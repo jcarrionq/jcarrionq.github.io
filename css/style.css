@@ -34,7 +34,7 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 830px;
   }
 }
 .container-narrow > hr {
@@ -96,7 +96,7 @@ body {
   padding: 5px 10px;
   color: #fff;
   text-align: left;
-  background-color: #848482;
+  background-color: #99AAFF;
 }
 
 .header-bar .address {
